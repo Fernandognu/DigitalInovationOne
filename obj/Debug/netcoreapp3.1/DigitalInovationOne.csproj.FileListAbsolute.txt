@@ -1,0 +1,12 @@
+/Users/fernandogarcia/work/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.deps.json
+/Users/fernandogarcia/work/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.runtimeconfig.json
+/Users/fernandogarcia/work/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.runtimeconfig.dev.json
+/Users/fernandogarcia/work/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.dll
+/Users/fernandogarcia/work/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.pdb
+/Users/fernandogarcia/work/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.csprojAssemblyReference.cache
+/Users/fernandogarcia/work/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.AssemblyInfoInputs.cache
+/Users/fernandogarcia/work/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.AssemblyInfo.cs
+/Users/fernandogarcia/work/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.csproj.CoreCompileInputs.cache
+/Users/fernandogarcia/work/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.dll
+/Users/fernandogarcia/work/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.pdb
+/Users/fernandogarcia/work/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.genruntimeconfig.cache
